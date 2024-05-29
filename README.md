@@ -1,4 +1,4 @@
-# Olá, eu me chamo Renan Marques Santos, desenvolvedor fullstack
+# Olá, eu me chamo Renan Marques Santos, desenvolvedor Frontend
 
 
 <div> 
