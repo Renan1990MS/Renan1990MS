@@ -2,8 +2,8 @@
 
 
 <div> 
-  <img src="https://github-readme-stats.vercel.app/api?username=OcttaDev&theme=blue-green" height="250">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OcttaDev&theme=blue-green" height="250">
+  <img src="https://github-readme-stats.vercel.app/api?username=Renan1990MS&theme=blue-green" height="250">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renan1990MS&theme=blue-green" height="250">
 </div>
 
   ##
